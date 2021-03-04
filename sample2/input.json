@@ -1,0 +1,22 @@
+{
+	"types": [
+		"MEDICAL",
+		"DENTAL",
+		"DRUG"
+	],
+
+	"medAmounts": [
+		"100.00",
+		"250.00"
+	],
+
+	"dentalAmounts": [
+		"800.00",
+		"999.00"
+	],
+
+	"drugAmounts": [
+		"1000.00",
+		"3400.00"
+	]
+}
